@@ -1,16 +1,4 @@
-# color_palette
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://user-images.githubusercontent.com/113905603/224977595-0fc5409d-a335-4223-92b3-fd8c43251307.png" height = 500 width = 250>
+<img src = "https://user-images.githubusercontent.com/113905603/224977597-43b20267-2967-43e7-bb16-af15a21f5437.png" height = 500 width = 250>
+<img src = "https://user-images.githubusercontent.com/113905603/224977602-49ca3cd1-8192-46d2-8494-3398d4bdf712.png" height = 500 width = 250>
+<img src = "https://user-images.githubusercontent.com/113905603/224977584-5a0713c5-e8ef-4805-8323-08bf0bb90a8f.png" height = 500 width = 250>
